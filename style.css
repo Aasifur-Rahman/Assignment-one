@@ -3,12 +3,7 @@
     font-family: 'Lora', serif;
     font-size: 80px;
 
-    color: rgb(27, 27, 27);
-
-    border-left: 5px solid tomato;
-    border-radius: 5px 10px 10px 5px ;
-    
-    padding-left: 20px;
+    color: rgb(27, 27, 27); 
 }
 
 h2{
@@ -28,7 +23,17 @@ h3{
 p {
     font-family: 'Nunito Sans', sans-serif;
     font-size:  20px;
+
     padding-top: 40px;
+}
+
+.top-section h1{
+    border-left: 5px solid tomato;
+    border-radius: 5px 10px 10px 5px ;
+    
+    padding-left: 20px;
+
+    
 }
 
 .orange-color{
@@ -68,7 +73,7 @@ p {
     
     padding: 15px 55px;
 
-    border-radius: 5px;
+    border-radius: 10px;
     
 }
 
@@ -103,6 +108,20 @@ p {
 
 .goal-sec img{
     width: 40%;
+}
+
+.develop-sec img{
+    width: 80%
+}
+
+.letter-one{
+    margin-left: -250px;
+    
+}
+
+.letter-one p{
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 
