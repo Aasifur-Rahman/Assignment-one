@@ -78,6 +78,9 @@ p {
 }
 
 
+
+
+
 .mission-sec{
     background-color: rgb(204, 217, 245);
     margin-left: 50px;
@@ -110,18 +113,42 @@ p {
     width: 40%;
 }
 
-.develop-sec img{
+
+
+
+
+
+.coding-img img{
     width: 80%
 }
 
-.letter-one{
+.documment-one{
     margin-left: -250px;
     
 }
 
-.letter-one p{
-    padding-top: 10px;
-    padding-bottom: 20px;
+.documment-one h1{
+    font-size: 60px;
+
+    color: rgb(27, 27, 27); 
+}
+.documment-one p{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
+.documment-two h1{
+    font-size: 60px;
+
+    color: rgb(27, 27, 27); 
+}
+
+.documment-two p{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.project-img img{
+    width: 80%;
+}
